@@ -1,4 +1,5 @@
 # Colab para teste do Modelo de Classificação de Krill - Baixa, Ideal e Alta densidade
+- Linguagem: Python
 - Imagens para teste estão anexadas ao modelo
 
 # Integrantes do grupo:
